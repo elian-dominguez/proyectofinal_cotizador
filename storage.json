@@ -1,0 +1,2502 @@
+[
+    {
+        "marca": "Lexus",
+        "año": 2006,
+        "modelo": "LX"
+    },
+    {
+        "marca": "Ford",
+        "año": 2006,
+        "modelo": "Five Hundred"
+    },
+    {
+        "marca": "Land Rover",
+        "año": 1997,
+        "modelo": "Range Rover"
+    },
+    {
+        "marca": "Audi",
+        "año": 2000,
+        "modelo": "A4"
+    },
+    {
+        "marca": "Porsche",
+        "año": 2012,
+        "modelo": "Cayenne"
+    },
+    {
+        "marca": "Dodge",
+        "año": 2012,
+        "modelo": "Charger"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 1994,
+        "modelo": "Caprice Classic"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 2009,
+        "modelo": "G"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 2005,
+        "modelo": "Lancer"
+    },
+    {
+        "marca": "Mazda",
+        "año": 1992,
+        "modelo": "B-Series"
+    },
+    {
+        "marca": "Oldsmobile",
+        "año": 1993,
+        "modelo": "98"
+    },
+    {
+        "marca": "Honda",
+        "año": 1991,
+        "modelo": "Civic"
+    },
+    {
+        "marca": "Lincoln",
+        "año": 2010,
+        "modelo": "Navigator L"
+    },
+    {
+        "marca": "Ford",
+        "año": 2005,
+        "modelo": "F-Series"
+    },
+    {
+        "marca": "BMW",
+        "año": 2008,
+        "modelo": "Z4 M"
+    },
+    {
+        "marca": "Chrysler",
+        "año": 1993,
+        "modelo": "Imperial"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2002,
+        "modelo": "Miata MX-5"
+    },
+    {
+        "marca": "Ford",
+        "año": 1984,
+        "modelo": "Ranger"
+    },
+    {
+        "marca": "Porsche",
+        "año": 1989,
+        "modelo": "911"
+    },
+    {
+        "marca": "Kia",
+        "año": 2011,
+        "modelo": "Sedona"
+    },
+    {
+        "marca": "Toyota",
+        "año": 1993,
+        "modelo": "Previa"
+    },
+    {
+        "marca": "Lexus",
+        "año": 2000,
+        "modelo": "GS"
+    },
+    {
+        "marca": "Jeep",
+        "año": 1993,
+        "modelo": "Grand Cherokee"
+    },
+    {
+        "marca": "Hummer",
+        "año": 2010,
+        "modelo": "H3"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 2004,
+        "modelo": "I"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 2008,
+        "modelo": "C-Class"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 1988,
+        "modelo": "Fiero"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 1995,
+        "modelo": "Blazer"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 1995,
+        "modelo": "Jetta"
+    },
+    {
+        "marca": "Ford",
+        "año": 2007,
+        "modelo": "Mustang"
+    },
+    {
+        "marca": "Toyota",
+        "año": 1989,
+        "modelo": "Truck Xtracab SR5"
+    },
+    {
+        "marca": "Hyundai",
+        "año": 2007,
+        "modelo": "Azera"
+    },
+    {
+        "marca": "Subaru",
+        "año": 2005,
+        "modelo": "Baja"
+    },
+    {
+        "marca": "Cadillac",
+        "año": 2010,
+        "modelo": "Escalade"
+    },
+    {
+        "marca": "Isuzu",
+        "año": 2000,
+        "modelo": "VehiCROSS"
+    },
+    {
+        "marca": "Ford",
+        "año": 2004,
+        "modelo": "Taurus"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 1990,
+        "modelo": "LeMans"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 2005,
+        "modelo": "SLR McLaren"
+    },
+    {
+        "marca": "Audi",
+        "año": 1990,
+        "modelo": "200"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2000,
+        "modelo": "4Runner"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1992,
+        "modelo": "D350 Club"
+    },
+    {
+        "marca": "Audi",
+        "año": 2011,
+        "modelo": "R8"
+    },
+    {
+        "marca": "Ford",
+        "año": 2012,
+        "modelo": "Escape"
+    },
+    {
+        "marca": "Acura",
+        "año": 2007,
+        "modelo": "TL"
+    },
+    {
+        "marca": "Maserati",
+        "año": 2005,
+        "modelo": "Quattroporte"
+    },
+    {
+        "marca": "GMC",
+        "año": 1995,
+        "modelo": "Vandura G3500"
+    },
+    {
+        "marca": "Porsche",
+        "año": 2006,
+        "modelo": "Boxster"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 2008,
+        "modelo": "C-Class"
+    },
+    {
+        "marca": "Lexus",
+        "año": 2013,
+        "modelo": "LX"
+    },
+    {
+        "marca": "Cadillac",
+        "año": 1993,
+        "modelo": "Sixty Special"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 1998,
+        "modelo": "Golf"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 1987,
+        "modelo": "Firebird"
+    },
+    {
+        "marca": "Ford",
+        "año": 2009,
+        "modelo": "E350"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 1985,
+        "modelo": "Sunbird"
+    },
+    {
+        "marca": "Acura",
+        "año": 1993,
+        "modelo": "Legend"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 1993,
+        "modelo": "Corrado"
+    },
+    {
+        "marca": "Kia",
+        "año": 2008,
+        "modelo": "Rio"
+    },
+    {
+        "marca": "Chrysler",
+        "año": 2003,
+        "modelo": "Town & Country"
+    },
+    {
+        "marca": "Lincoln",
+        "año": 1989,
+        "modelo": "Town Car"
+    },
+    {
+        "marca": "Audi",
+        "año": 2008,
+        "modelo": "S5"
+    },
+    {
+        "marca": "BMW",
+        "año": 2008,
+        "modelo": "3 Series"
+    },
+    {
+        "marca": "Nissan",
+        "año": 2008,
+        "modelo": "Versa"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2001,
+        "modelo": "Tribute"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 2000,
+        "modelo": "SLK-Class"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1993,
+        "modelo": "Ram Van B250"
+    },
+    {
+        "marca": "Mercury",
+        "año": 1988,
+        "modelo": "Topaz"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2007,
+        "modelo": "FJ Cruiser"
+    },
+    {
+        "marca": "Bentley",
+        "año": 2009,
+        "modelo": "Brooklands"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2004,
+        "modelo": "MR2"
+    },
+    {
+        "marca": "Land Rover",
+        "año": 2007,
+        "modelo": "Range Rover"
+    },
+    {
+        "marca": "Ford",
+        "año": 2008,
+        "modelo": "Explorer"
+    },
+    {
+        "marca": "Lexus",
+        "año": 1997,
+        "modelo": "LX"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 2005,
+        "modelo": "Sunfire"
+    },
+    {
+        "marca": "Nissan",
+        "año": 2012,
+        "modelo": "GT-R"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2004,
+        "modelo": "Aveo"
+    },
+    {
+        "marca": "Buick",
+        "año": 2004,
+        "modelo": "Regal"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 2011,
+        "modelo": "G37"
+    },
+    {
+        "marca": "Ford",
+        "año": 2010,
+        "modelo": "Ranger"
+    },
+    {
+        "marca": "GMC",
+        "año": 2003,
+        "modelo": "Yukon XL 2500"
+    },
+    {
+        "marca": "Hyundai",
+        "año": 2013,
+        "modelo": "Equus"
+    },
+    {
+        "marca": "Ford",
+        "año": 1994,
+        "modelo": "Explorer"
+    },
+    {
+        "marca": "Land Rover",
+        "año": 1986,
+        "modelo": "Range Rover"
+    },
+    {
+        "marca": "BMW",
+        "año": 2002,
+        "modelo": "3 Series"
+    },
+    {
+        "marca": "Kia",
+        "año": 2004,
+        "modelo": "Spectra"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2002,
+        "modelo": "Monte Carlo"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 1996,
+        "modelo": "J"
+    },
+    {
+        "marca": "Audi",
+        "año": 2000,
+        "modelo": "A6"
+    },
+    {
+        "marca": "Bentley",
+        "año": 2008,
+        "modelo": "Continental"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2008,
+        "modelo": "Avalanche"
+    },
+    {
+        "marca": "Hyundai",
+        "año": 2009,
+        "modelo": "Genesis"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 1994,
+        "modelo": "Eurovan"
+    },
+    {
+        "marca": "Lincoln",
+        "año": 1993,
+        "modelo": "Continental"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 2000,
+        "modelo": "Golf"
+    },
+    {
+        "marca": "Acura",
+        "año": 2009,
+        "modelo": "RDX"
+    },
+    {
+        "marca": "GMC",
+        "año": 2008,
+        "modelo": "Sierra"
+    },
+    {
+        "marca": "Plymouth",
+        "año": 1998,
+        "modelo": "Neon"
+    },
+    {
+        "marca": "GMC",
+        "año": 2007,
+        "modelo": "Envoy"
+    },
+    {
+        "marca": "Audi",
+        "año": 2012,
+        "modelo": "A3"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 2004,
+        "modelo": "Endeavor"
+    },
+    {
+        "marca": "Acura",
+        "año": 1999,
+        "modelo": "SLX"
+    },
+    {
+        "marca": "Suzuki",
+        "año": 2009,
+        "modelo": "Grand Vitara"
+    },
+    {
+        "marca": "Mercury",
+        "año": 2008,
+        "modelo": "Milan"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 1999,
+        "modelo": "Blazer"
+    },
+    {
+        "marca": "Cadillac",
+        "año": 2004,
+        "modelo": "Escalade"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1999,
+        "modelo": "Intrepid"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 1993,
+        "modelo": "3000GT"
+    },
+    {
+        "marca": "Jaguar",
+        "año": 2010,
+        "modelo": "XF"
+    },
+    {
+        "marca": "Acura",
+        "año": 1994,
+        "modelo": "Vigor"
+    },
+    {
+        "marca": "Ford",
+        "año": 2006,
+        "modelo": "F350"
+    },
+    {
+        "marca": "Nissan",
+        "año": 1994,
+        "modelo": "Altima"
+    },
+    {
+        "marca": "Isuzu",
+        "año": 2003,
+        "modelo": "Rodeo Sport"
+    },
+    {
+        "marca": "Buick",
+        "año": 1990,
+        "modelo": "Estate"
+    },
+    {
+        "marca": "MINI",
+        "año": 2010,
+        "modelo": "Cooper"
+    },
+    {
+        "marca": "Cadillac",
+        "año": 1998,
+        "modelo": "DeVille"
+    },
+    {
+        "marca": "Nissan",
+        "año": 2012,
+        "modelo": "JUKE"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1993,
+        "modelo": "Dakota Club"
+    },
+    {
+        "marca": "GMC",
+        "año": 2012,
+        "modelo": "Sierra"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2000,
+        "modelo": "RAV4"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 2000,
+        "modelo": "SL-Class"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2005,
+        "modelo": "Land Cruiser"
+    },
+    {
+        "marca": "Dodge",
+        "año": 2001,
+        "modelo": "Durango"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 2011,
+        "modelo": "IPL G"
+    },
+    {
+        "marca": "Hyundai",
+        "año": 2010,
+        "modelo": "Azera"
+    },
+    {
+        "marca": "Subaru",
+        "año": 2002,
+        "modelo": "Outback"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 2005,
+        "modelo": "Sunfire"
+    },
+    {
+        "marca": "Honda",
+        "año": 2006,
+        "modelo": "S2000"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 1987,
+        "modelo": "Chariot"
+    },
+    {
+        "marca": "Nissan",
+        "año": 2007,
+        "modelo": "Pathfinder"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 1998,
+        "modelo": "Blazer"
+    },
+    {
+        "marca": "Lotus",
+        "año": 2010,
+        "modelo": "Exige"
+    },
+    {
+        "marca": "GMC",
+        "año": 2000,
+        "modelo": "Savana 3500"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2012,
+        "modelo": "Tahoe"
+    },
+    {
+        "marca": "Ford",
+        "año": 2006,
+        "modelo": "E-350 Super Duty Van"
+    },
+    {
+        "marca": "Subaru",
+        "año": 2002,
+        "modelo": "Outback Sport"
+    },
+    {
+        "marca": "Audi",
+        "año": 1990,
+        "modelo": "Coupe Quattro"
+    },
+    {
+        "marca": "Ford",
+        "año": 2007,
+        "modelo": "Explorer"
+    },
+    {
+        "marca": "Volvo",
+        "año": 2009,
+        "modelo": "XC90"
+    },
+    {
+        "marca": "Chrysler",
+        "año": 2002,
+        "modelo": "Prowler"
+    },
+    {
+        "marca": "Subaru",
+        "año": 1991,
+        "modelo": "XT"
+    },
+    {
+        "marca": "Lincoln",
+        "año": 1989,
+        "modelo": "Continental"
+    },
+    {
+        "marca": "Ford",
+        "año": 1986,
+        "modelo": "E-Series"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 2006,
+        "modelo": "SLK-Class"
+    },
+    {
+        "marca": "Ford",
+        "año": 2006,
+        "modelo": "Expedition"
+    },
+    {
+        "marca": "Ford",
+        "año": 1994,
+        "modelo": "F250"
+    },
+    {
+        "marca": "Isuzu",
+        "año": 1997,
+        "modelo": "Rodeo"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 2003,
+        "modelo": "GTI"
+    },
+    {
+        "marca": "Honda",
+        "año": 2010,
+        "modelo": "Odyssey"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 2003,
+        "modelo": "Eurovan"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 1984,
+        "modelo": "1000"
+    },
+    {
+        "marca": "Ford",
+        "año": 1985,
+        "modelo": "E-Series"
+    },
+    {
+        "marca": "Dodge",
+        "año": 2000,
+        "modelo": "Ram Van 2500"
+    },
+    {
+        "marca": "Lexus",
+        "año": 2011,
+        "modelo": "LS"
+    },
+    {
+        "marca": "Land Rover",
+        "año": 1999,
+        "modelo": "Discovery Series II"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2004,
+        "modelo": "Express 2500"
+    },
+    {
+        "marca": "BMW",
+        "año": 2002,
+        "modelo": "M5"
+    },
+    {
+        "marca": "Suzuki",
+        "año": 2008,
+        "modelo": "XL7"
+    },
+    {
+        "marca": "Saturn",
+        "año": 2007,
+        "modelo": "Outlook"
+    },
+    {
+        "marca": "Lamborghini",
+        "año": 1994,
+        "modelo": "Diablo"
+    },
+    {
+        "marca": "Honda",
+        "año": 2010,
+        "modelo": "CR-V"
+    },
+    {
+        "marca": "Toyota",
+        "año": 1997,
+        "modelo": "Supra"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2007,
+        "modelo": "Cobalt SS"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 1990,
+        "modelo": "Firefly"
+    },
+    {
+        "marca": "BMW",
+        "año": 2005,
+        "modelo": "6 Series"
+    },
+    {
+        "marca": "Jeep",
+        "año": 1997,
+        "modelo": "Grand Cherokee"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2006,
+        "modelo": "4Runner"
+    },
+    {
+        "marca": "Isuzu",
+        "año": 2002,
+        "modelo": "Axiom"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 2011,
+        "modelo": "Jetta"
+    },
+    {
+        "marca": "BMW",
+        "año": 2009,
+        "modelo": "X3"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2005,
+        "modelo": "Corvette"
+    },
+    {
+        "marca": "Audi",
+        "año": 2009,
+        "modelo": "A6"
+    },
+    {
+        "marca": "Toyota",
+        "año": 1996,
+        "modelo": "Land Cruiser"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 2010,
+        "modelo": "Lancer"
+    },
+    {
+        "marca": "GMC",
+        "año": 1998,
+        "modelo": "Jimmy"
+    },
+    {
+        "marca": "BMW",
+        "año": 2006,
+        "modelo": "5 Series"
+    },
+    {
+        "marca": "Mazda",
+        "año": 1999,
+        "modelo": "Millenia"
+    },
+    {
+        "marca": "Buick",
+        "año": 1991,
+        "modelo": "Coachbuilder"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2004,
+        "modelo": "Corvette"
+    },
+    {
+        "marca": "BMW",
+        "año": 2006,
+        "modelo": "X3"
+    },
+    {
+        "marca": "Ford",
+        "año": 2008,
+        "modelo": "Explorer"
+    },
+    {
+        "marca": "GMC",
+        "año": 2011,
+        "modelo": "Sierra 2500"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2000,
+        "modelo": "Monte Carlo"
+    },
+    {
+        "marca": "Chrysler",
+        "año": 1998,
+        "modelo": "Concorde"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 1993,
+        "modelo": "S10 Blazer"
+    },
+    {
+        "marca": "Honda",
+        "año": 2008,
+        "modelo": "Pilot"
+    },
+    {
+        "marca": "Nissan",
+        "año": 2012,
+        "modelo": "NV3500"
+    },
+    {
+        "marca": "GMC",
+        "año": 1992,
+        "modelo": "Suburban 2500"
+    },
+    {
+        "marca": "BMW",
+        "año": 2000,
+        "modelo": "X5"
+    },
+    {
+        "marca": "Isuzu",
+        "año": 1999,
+        "modelo": "Trooper"
+    },
+    {
+        "marca": "Dodge",
+        "año": 2008,
+        "modelo": "Avenger"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 1998,
+        "modelo": "Montero"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 1994,
+        "modelo": "Jetta"
+    },
+    {
+        "marca": "Ford",
+        "año": 1997,
+        "modelo": "Expedition"
+    },
+    {
+        "marca": "Ford",
+        "año": 2013,
+        "modelo": "Focus ST"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 1960,
+        "modelo": "Corvette"
+    },
+    {
+        "marca": "Jeep",
+        "año": 2011,
+        "modelo": "Wrangler"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 2007,
+        "modelo": "QX"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2011,
+        "modelo": "Mazda6"
+    },
+    {
+        "marca": "Subaru",
+        "año": 1993,
+        "modelo": "Alcyone SVX"
+    },
+    {
+        "marca": "Lincoln",
+        "año": 2003,
+        "modelo": "Aviator"
+    },
+    {
+        "marca": "Ford",
+        "año": 2012,
+        "modelo": "E350"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 2001,
+        "modelo": "Firebird"
+    },
+    {
+        "marca": "Lotus",
+        "año": 2008,
+        "modelo": "Exige"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 2000,
+        "modelo": "QX"
+    },
+    {
+        "marca": "Ford",
+        "año": 2008,
+        "modelo": "F-Series"
+    },
+    {
+        "marca": "Kia",
+        "año": 2005,
+        "modelo": "Sedona"
+    },
+    {
+        "marca": "Ford",
+        "año": 1986,
+        "modelo": "Bronco"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1993,
+        "modelo": "D250"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2011,
+        "modelo": "Mazda6"
+    },
+    {
+        "marca": "Mazda",
+        "año": 1993,
+        "modelo": "626"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2007,
+        "modelo": "Silverado"
+    },
+    {
+        "marca": "Maybach",
+        "año": 2010,
+        "modelo": "Landaulet"
+    },
+    {
+        "marca": "Ferrari",
+        "año": 2009,
+        "modelo": "California"
+    },
+    {
+        "marca": "BMW",
+        "año": 1994,
+        "modelo": "5 Series"
+    },
+    {
+        "marca": "Porsche",
+        "año": 1991,
+        "modelo": "944"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 1992,
+        "modelo": "Expo"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 2011,
+        "modelo": "G-Class"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 1998,
+        "modelo": "SLK-Class"
+    },
+    {
+        "marca": "Lexus",
+        "año": 2003,
+        "modelo": "RX"
+    },
+    {
+        "marca": "Ford",
+        "año": 1989,
+        "modelo": "Thunderbird"
+    },
+    {
+        "marca": "BMW",
+        "año": 2006,
+        "modelo": "330"
+    },
+    {
+        "marca": "Toyota",
+        "año": 1995,
+        "modelo": "Tacoma"
+    },
+    {
+        "marca": "Ford",
+        "año": 1990,
+        "modelo": "Taurus"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2001,
+        "modelo": "B-Series"
+    },
+    {
+        "marca": "Isuzu",
+        "año": 1992,
+        "modelo": "Amigo"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 1992,
+        "modelo": "G"
+    },
+    {
+        "marca": "Isuzu",
+        "año": 1999,
+        "modelo": "Amigo"
+    },
+    {
+        "marca": "Dodge",
+        "año": 2003,
+        "modelo": "Dakota"
+    },
+    {
+        "marca": "Cadillac",
+        "año": 1995,
+        "modelo": "DeVille"
+    },
+    {
+        "marca": "Mazda",
+        "año": 1993,
+        "modelo": "929"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 2004,
+        "modelo": "E-Class"
+    },
+    {
+        "marca": "Cadillac",
+        "año": 2006,
+        "modelo": "DTS"
+    },
+    {
+        "marca": "Ford",
+        "año": 1966,
+        "modelo": "Galaxie"
+    },
+    {
+        "marca": "Toyota",
+        "año": 1994,
+        "modelo": "Xtra"
+    },
+    {
+        "marca": "Saab",
+        "año": 1992,
+        "modelo": "9000"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 1985,
+        "modelo": "S-Class"
+    },
+    {
+        "marca": "Mazda",
+        "año": 1989,
+        "modelo": "626"
+    },
+    {
+        "marca": "Chrysler",
+        "año": 2007,
+        "modelo": "Crossfire"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 2004,
+        "modelo": "Vibe"
+    },
+    {
+        "marca": "Subaru",
+        "año": 1988,
+        "modelo": "Leone"
+    },
+    {
+        "marca": "Toyota",
+        "año": 1999,
+        "modelo": "Land Cruiser"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2004,
+        "modelo": "Matrix"
+    },
+    {
+        "marca": "BMW",
+        "año": 2011,
+        "modelo": "X6"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2004,
+        "modelo": "Impala"
+    },
+    {
+        "marca": "Ford",
+        "año": 2002,
+        "modelo": "Explorer"
+    },
+    {
+        "marca": "Volvo",
+        "año": 2005,
+        "modelo": "XC90"
+    },
+    {
+        "marca": "Chrysler",
+        "año": 1992,
+        "modelo": "New Yorker"
+    },
+    {
+        "marca": "Dodge",
+        "año": 2005,
+        "modelo": "Dakota Club"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 1992,
+        "modelo": "GTI"
+    },
+    {
+        "marca": "Chrysler",
+        "año": 2011,
+        "modelo": "200"
+    },
+    {
+        "marca": "Porsche",
+        "año": 1987,
+        "modelo": "944"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 1993,
+        "modelo": "C-Class"
+    },
+    {
+        "marca": "Volvo",
+        "año": 2012,
+        "modelo": "XC60"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 1984,
+        "modelo": "Parisienne"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2001,
+        "modelo": "Metro"
+    },
+    {
+        "marca": "Hummer",
+        "año": 2005,
+        "modelo": "H2"
+    },
+    {
+        "marca": "GMC",
+        "año": 1993,
+        "modelo": "Yukon"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 1999,
+        "modelo": "QX"
+    },
+    {
+        "marca": "Ford",
+        "año": 1984,
+        "modelo": "E250"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 1984,
+        "modelo": "Sunbird"
+    },
+    {
+        "marca": "Ford",
+        "año": 1997,
+        "modelo": "Mustang"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2000,
+        "modelo": "Millenia"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2011,
+        "modelo": "Tribute"
+    },
+    {
+        "marca": "Suzuki",
+        "año": 1996,
+        "modelo": "Esteem"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1976,
+        "modelo": "Aspen"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2003,
+        "modelo": "4Runner"
+    },
+    {
+        "marca": "Volvo",
+        "año": 2012,
+        "modelo": "C30"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 2007,
+        "modelo": "CL-Class"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 1993,
+        "modelo": "600SEC"
+    },
+    {
+        "marca": "Honda",
+        "año": 2010,
+        "modelo": "Pilot"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 1992,
+        "modelo": "500SEL"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1998,
+        "modelo": "Ram 2500"
+    },
+    {
+        "marca": "Suzuki",
+        "año": 1995,
+        "modelo": "SJ"
+    },
+    {
+        "marca": "Mazda",
+        "año": 1995,
+        "modelo": "B-Series Plus"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 1990,
+        "modelo": "Grand Prix"
+    },
+    {
+        "marca": "Saturn",
+        "año": 1997,
+        "modelo": "S-Series"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2001,
+        "modelo": "Cavalier"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 2002,
+        "modelo": "Bonneville"
+    },
+    {
+        "marca": "Suzuki",
+        "año": 1990,
+        "modelo": "Swift"
+    },
+    {
+        "marca": "GMC",
+        "año": 1992,
+        "modelo": "Vandura 3500"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 2000,
+        "modelo": "Cabriolet"
+    },
+    {
+        "marca": "Aptera",
+        "año": 2008,
+        "modelo": "Typ-1"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 1988,
+        "modelo": "Passat"
+    },
+    {
+        "marca": "Mazda",
+        "año": 1992,
+        "modelo": "RX-7"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 2011,
+        "modelo": "G37"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2008,
+        "modelo": "Tahoe"
+    },
+    {
+        "marca": "GMC",
+        "año": 1995,
+        "modelo": "Vandura G1500"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 2004,
+        "modelo": "Galant"
+    },
+    {
+        "marca": "Kia",
+        "año": 2011,
+        "modelo": "Sorento"
+    },
+    {
+        "marca": "Lincoln",
+        "año": 1992,
+        "modelo": "Continental"
+    },
+    {
+        "marca": "Ford",
+        "año": 2011,
+        "modelo": "Edge"
+    },
+    {
+        "marca": "GMC",
+        "año": 2012,
+        "modelo": "Sierra"
+    },
+    {
+        "marca": "Chrysler",
+        "año": 1998,
+        "modelo": "Concorde"
+    },
+    {
+        "marca": "Ford",
+        "año": 1988,
+        "modelo": "Courier"
+    },
+    {
+        "marca": "Buick",
+        "año": 2006,
+        "modelo": "Lucerne"
+    },
+    {
+        "marca": "Lexus",
+        "año": 2009,
+        "modelo": "IS F"
+    },
+    {
+        "marca": "Lamborghini",
+        "año": 1988,
+        "modelo": "Countach"
+    },
+    {
+        "marca": "GMC",
+        "año": 1997,
+        "modelo": "Suburban 2500"
+    },
+    {
+        "marca": "Acura",
+        "año": 2006,
+        "modelo": "MDX"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 2012,
+        "modelo": "Passat"
+    },
+    {
+        "marca": "Lamborghini",
+        "año": 2009,
+        "modelo": "Gallardo"
+    },
+    {
+        "marca": "Subaru",
+        "año": 2006,
+        "modelo": "Tribeca"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1998,
+        "modelo": "Intrepid"
+    },
+    {
+        "marca": "Audi",
+        "año": 1989,
+        "modelo": "100"
+    },
+    {
+        "marca": "Lexus",
+        "año": 2011,
+        "modelo": "CT"
+    },
+    {
+        "marca": "Saturn",
+        "año": 2008,
+        "modelo": "Aura"
+    },
+    {
+        "marca": "Ford",
+        "año": 1985,
+        "modelo": "LTD Crown Victoria"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 1981,
+        "modelo": "Camaro"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2003,
+        "modelo": "MPV"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2004,
+        "modelo": "Colorado"
+    },
+    {
+        "marca": "Cadillac",
+        "año": 1994,
+        "modelo": "DeVille"
+    },
+    {
+        "marca": "Lincoln",
+        "año": 2006,
+        "modelo": "Town Car"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2006,
+        "modelo": "Prius"
+    },
+    {
+        "marca": "Dodge",
+        "año": 2009,
+        "modelo": "Ram 1500"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2011,
+        "modelo": "Express 3500"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 1996,
+        "modelo": "Cavalier"
+    },
+    {
+        "marca": "Audi",
+        "año": 1987,
+        "modelo": "5000S"
+    },
+    {
+        "marca": "Maserati",
+        "año": 2006,
+        "modelo": "GranSport"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2012,
+        "modelo": "Suburban 2500"
+    },
+    {
+        "marca": "Audi",
+        "año": 2011,
+        "modelo": "A5"
+    },
+    {
+        "marca": "Scion",
+        "año": 2010,
+        "modelo": "xB"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 2005,
+        "modelo": "Passat"
+    },
+    {
+        "marca": "Jaguar",
+        "año": 2002,
+        "modelo": "XJ Series"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 2008,
+        "modelo": "G35"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 2004,
+        "modelo": "Touareg"
+    },
+    {
+        "marca": "Toyota",
+        "año": 1996,
+        "modelo": "Corolla"
+    },
+    {
+        "marca": "Lincoln",
+        "año": 2005,
+        "modelo": "Navigator"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 1983,
+        "modelo": "Golf"
+    },
+    {
+        "marca": "Jeep",
+        "año": 1996,
+        "modelo": "Grand Cherokee"
+    },
+    {
+        "marca": "Dodge",
+        "año": 2004,
+        "modelo": "Neon"
+    },
+    {
+        "marca": "Honda",
+        "año": 1994,
+        "modelo": "Civic"
+    },
+    {
+        "marca": "Plymouth",
+        "año": 1969,
+        "modelo": "Roadrunner"
+    },
+    {
+        "marca": "Kia",
+        "año": 2007,
+        "modelo": "Rio"
+    },
+    {
+        "marca": "Buick",
+        "año": 1987,
+        "modelo": "LeSabre"
+    },
+    {
+        "marca": "GMC",
+        "año": 2000,
+        "modelo": "Savana 2500"
+    },
+    {
+        "marca": "Hyundai",
+        "año": 1993,
+        "modelo": "Sonata"
+    },
+    {
+        "marca": "Cadillac",
+        "año": 1995,
+        "modelo": "Seville"
+    },
+    {
+        "marca": "Jeep",
+        "año": 1998,
+        "modelo": "Cherokee"
+    },
+    {
+        "marca": "Saab",
+        "año": 1985,
+        "modelo": "900"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 2000,
+        "modelo": "Montero Sport"
+    },
+    {
+        "marca": "Porsche",
+        "año": 2010,
+        "modelo": "Panamera"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 2006,
+        "modelo": "CL-Class"
+    },
+    {
+        "marca": "Suzuki",
+        "año": 1994,
+        "modelo": "Sidekick"
+    },
+    {
+        "marca": "Ford",
+        "año": 2009,
+        "modelo": "F350"
+    },
+    {
+        "marca": "Mercury",
+        "año": 2009,
+        "modelo": "Grand Marquis"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 2008,
+        "modelo": "G-Class"
+    },
+    {
+        "marca": "Lexus",
+        "año": 2003,
+        "modelo": "GS"
+    },
+    {
+        "marca": "Mercury",
+        "año": 1995,
+        "modelo": "Tracer"
+    },
+    {
+        "marca": "Chrysler",
+        "año": 1995,
+        "modelo": "Sebring"
+    },
+    {
+        "marca": "Maybach",
+        "año": 2005,
+        "modelo": "57"
+    },
+    {
+        "marca": "GMC",
+        "año": 1992,
+        "modelo": "Sonoma"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 1993,
+        "modelo": "500SEC"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1996,
+        "modelo": "Dakota Club"
+    },
+    {
+        "marca": "Mazda",
+        "año": 1992,
+        "modelo": "MPV"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2007,
+        "modelo": "Colorado"
+    },
+    {
+        "marca": "Subaru",
+        "año": 1997,
+        "modelo": "SVX"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2004,
+        "modelo": "TrailBlazer"
+    },
+    {
+        "marca": "Honda",
+        "año": 1983,
+        "modelo": "Accord"
+    },
+    {
+        "marca": "Buick",
+        "año": 1991,
+        "modelo": "Reatta"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2010,
+        "modelo": "Silverado 2500"
+    },
+    {
+        "marca": "Porsche",
+        "año": 1995,
+        "modelo": "928"
+    },
+    {
+        "marca": "BMW",
+        "año": 2010,
+        "modelo": "M3"
+    },
+    {
+        "marca": "Oldsmobile",
+        "año": 1992,
+        "modelo": "Bravada"
+    },
+    {
+        "marca": "Dodge",
+        "año": 2009,
+        "modelo": "Ram"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2004,
+        "modelo": "Malibu"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1999,
+        "modelo": "Avenger"
+    },
+    {
+        "marca": "Mercury",
+        "año": 2009,
+        "modelo": "Mariner"
+    },
+    {
+        "marca": "Buick",
+        "año": 2011,
+        "modelo": "Lucerne"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2002,
+        "modelo": "MX-5"
+    },
+    {
+        "marca": "Lexus",
+        "año": 2008,
+        "modelo": "IS"
+    },
+    {
+        "marca": "Ram",
+        "año": 2012,
+        "modelo": "1500"
+    },
+    {
+        "marca": "Ford",
+        "año": 2004,
+        "modelo": "F350"
+    },
+    {
+        "marca": "Chrysler",
+        "año": 1994,
+        "modelo": "Town & Country"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 1964,
+        "modelo": "GTO"
+    },
+    {
+        "marca": "Honda",
+        "año": 1993,
+        "modelo": "del Sol"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 2009,
+        "modelo": "G"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 1996,
+        "modelo": "2500"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2002,
+        "modelo": "MR2"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2007,
+        "modelo": "Equinox"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 2004,
+        "modelo": "G35"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1997,
+        "modelo": "Ram 2500 Club"
+    },
+    {
+        "marca": "Jeep",
+        "año": 2006,
+        "modelo": "Wrangler"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2009,
+        "modelo": "Tahoe"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2006,
+        "modelo": "RX-8"
+    },
+    {
+        "marca": "Lincoln",
+        "año": 1995,
+        "modelo": "Mark VIII"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 1999,
+        "modelo": "Metro"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2012,
+        "modelo": "Camry"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2008,
+        "modelo": "Corvette"
+    },
+    {
+        "marca": "Lexus",
+        "año": 2009,
+        "modelo": "LX"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 1994,
+        "modelo": "Truck"
+    },
+    {
+        "marca": "Land Rover",
+        "año": 2001,
+        "modelo": "Range Rover"
+    },
+    {
+        "marca": "Audi",
+        "año": 2005,
+        "modelo": "S4"
+    },
+    {
+        "marca": "Dodge",
+        "año": 2008,
+        "modelo": "Nitro"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2010,
+        "modelo": "Sequoia"
+    },
+    {
+        "marca": "BMW",
+        "año": 2004,
+        "modelo": "3 Series"
+    },
+    {
+        "marca": "Ford",
+        "año": 2013,
+        "modelo": "Transit Connect"
+    },
+    {
+        "marca": "Subaru",
+        "año": 1995,
+        "modelo": "Impreza"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 1995,
+        "modelo": "Firebird"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 1994,
+        "modelo": "Beretta"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2007,
+        "modelo": "Avalon"
+    },
+    {
+        "marca": "Nissan",
+        "año": 2004,
+        "modelo": "Quest"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2000,
+        "modelo": "Millenia"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 2008,
+        "modelo": "QX56"
+    },
+    {
+        "marca": "Kia",
+        "año": 2007,
+        "modelo": "Sedona"
+    },
+    {
+        "marca": "Ford",
+        "año": 2004,
+        "modelo": "Expedition"
+    },
+    {
+        "marca": "Toyota",
+        "año": 1996,
+        "modelo": "Tacoma Xtra"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 1999,
+        "modelo": "C-Class"
+    },
+    {
+        "marca": "Honda",
+        "año": 1992,
+        "modelo": "Accord"
+    },
+    {
+        "marca": "Hyundai",
+        "año": 2005,
+        "modelo": "Santa Fe"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 2007,
+        "modelo": "G6"
+    },
+    {
+        "marca": "Daewoo",
+        "año": 2000,
+        "modelo": "Nubira"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2008,
+        "modelo": "Mazda6"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2000,
+        "modelo": "Millenia"
+    },
+    {
+        "marca": "Ford",
+        "año": 2010,
+        "modelo": "Transit Connect"
+    },
+    {
+        "marca": "Cadillac",
+        "año": 1998,
+        "modelo": "DeVille"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2007,
+        "modelo": "Equinox"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2004,
+        "modelo": "MPV"
+    },
+    {
+        "marca": "Hyundai",
+        "año": 2008,
+        "modelo": "Accent"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2007,
+        "modelo": "Mazda6"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1994,
+        "modelo": "Spirit"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 2004,
+        "modelo": "Endeavor"
+    },
+    {
+        "marca": "GMC",
+        "año": 2005,
+        "modelo": "Sierra 3500"
+    },
+    {
+        "marca": "Honda",
+        "año": 1980,
+        "modelo": "Civic"
+    },
+    {
+        "marca": "Chrysler",
+        "año": 2006,
+        "modelo": "Crossfire Roadster"
+    },
+    {
+        "marca": "Jaguar",
+        "año": 2004,
+        "modelo": "XJ Series"
+    },
+    {
+        "marca": "GMC",
+        "año": 2012,
+        "modelo": "Sierra 3500"
+    },
+    {
+        "marca": "BMW",
+        "año": 2005,
+        "modelo": "Z4"
+    },
+    {
+        "marca": "Toyota",
+        "año": 1997,
+        "modelo": "Avalon"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 2003,
+        "modelo": "Diamante"
+    },
+    {
+        "marca": "Buick",
+        "año": 1990,
+        "modelo": "Reatta"
+    },
+    {
+        "marca": "Mazda",
+        "año": 1988,
+        "modelo": "Familia"
+    },
+    {
+        "marca": "Mercury",
+        "año": 2001,
+        "modelo": "Sable"
+    },
+    {
+        "marca": "Porsche",
+        "año": 2001,
+        "modelo": "Boxster"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2011,
+        "modelo": "Mazda2"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 2003,
+        "modelo": "S-Class"
+    },
+    {
+        "marca": "Acura",
+        "año": 1997,
+        "modelo": "CL"
+    },
+    {
+        "marca": "Nissan",
+        "año": 2010,
+        "modelo": "370Z"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2002,
+        "modelo": "Avalanche"
+    },
+    {
+        "marca": "BMW",
+        "año": 2006,
+        "modelo": "M6"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 1992,
+        "modelo": "Firefly"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 1999,
+        "modelo": "Jetta"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1993,
+        "modelo": "Ram Van B150"
+    },
+    {
+        "marca": "BMW",
+        "año": 2007,
+        "modelo": "7 Series"
+    },
+    {
+        "marca": "Aston Martin",
+        "año": 2010,
+        "modelo": "DBS"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1997,
+        "modelo": "Stratus"
+    },
+    {
+        "marca": "Morgan",
+        "año": 2008,
+        "modelo": "Aero 8"
+    },
+    {
+        "marca": "Chrysler",
+        "año": 2007,
+        "modelo": "PT Cruiser"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2010,
+        "modelo": "Cobalt"
+    },
+    {
+        "marca": "Honda",
+        "año": 1995,
+        "modelo": "Odyssey"
+    },
+    {
+        "marca": "Pontiac",
+        "año": 1988,
+        "modelo": "6000"
+    },
+    {
+        "marca": "Nissan",
+        "año": 2010,
+        "modelo": "Maxima"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 2004,
+        "modelo": "GTI"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2001,
+        "modelo": "Millenia"
+    },
+    {
+        "marca": "Audi",
+        "año": 1990,
+        "modelo": "90"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2000,
+        "modelo": "Camry"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 1986,
+        "modelo": "Cordia"
+    },
+    {
+        "marca": "Audi",
+        "año": 1986,
+        "modelo": "4000s Quattro"
+    },
+    {
+        "marca": "Volkswagen",
+        "año": 1995,
+        "modelo": "Cabriolet"
+    },
+    {
+        "marca": "Lotus",
+        "año": 2005,
+        "modelo": "Elise"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2010,
+        "modelo": "Yaris"
+    },
+    {
+        "marca": "Mercury",
+        "año": 2000,
+        "modelo": "Sable"
+    },
+    {
+        "marca": "GMC",
+        "año": 2006,
+        "modelo": "Savana 2500"
+    },
+    {
+        "marca": "BMW",
+        "año": 2004,
+        "modelo": "3 Series"
+    },
+    {
+        "marca": "Cadillac",
+        "año": 2011,
+        "modelo": "SRX"
+    },
+    {
+        "marca": "Ferrari",
+        "año": 2012,
+        "modelo": "FF"
+    },
+    {
+        "marca": "Land Rover",
+        "año": 2008,
+        "modelo": "Freelander"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2006,
+        "modelo": "TrailBlazer"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2008,
+        "modelo": "Tundra"
+    },
+    {
+        "marca": "Dodge",
+        "año": 2011,
+        "modelo": "Ram"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 2006,
+        "modelo": "Pajero"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 2012,
+        "modelo": "Sprinter 3500"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 2004,
+        "modelo": "M"
+    },
+    {
+        "marca": "Mazda",
+        "año": 2003,
+        "modelo": "B-Series"
+    },
+    {
+        "marca": "Chrysler",
+        "año": 2010,
+        "modelo": "PT Cruiser"
+    },
+    {
+        "marca": "Acura",
+        "año": 2006,
+        "modelo": "RSX"
+    },
+    {
+        "marca": "Lexus",
+        "año": 1993,
+        "modelo": "GS"
+    },
+    {
+        "marca": "BMW",
+        "año": 1996,
+        "modelo": "Z3"
+    },
+    {
+        "marca": "Lincoln",
+        "año": 2003,
+        "modelo": "Blackwood"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 1995,
+        "modelo": "GTO"
+    },
+    {
+        "marca": "Subaru",
+        "año": 1986,
+        "modelo": "Brat"
+    },
+    {
+        "marca": "Cadillac",
+        "año": 2006,
+        "modelo": "CTS"
+    },
+    {
+        "marca": "Buick",
+        "año": 2009,
+        "modelo": "Lucerne"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 2007,
+        "modelo": "Cobalt SS"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1996,
+        "modelo": "Dakota"
+    },
+    {
+        "marca": "Infiniti",
+        "año": 1992,
+        "modelo": "G"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 2001,
+        "modelo": "Diamante"
+    },
+    {
+        "marca": "Mercedes-Benz",
+        "año": 1986,
+        "modelo": "S-Class"
+    },
+    {
+        "marca": "GMC",
+        "año": 1993,
+        "modelo": "Rally Wagon 1500"
+    },
+    {
+        "marca": "Subaru",
+        "año": 2001,
+        "modelo": "Impreza"
+    },
+    {
+        "marca": "GMC",
+        "año": 2007,
+        "modelo": "Yukon XL 1500"
+    },
+    {
+        "marca": "Mitsubishi",
+        "año": 1988,
+        "modelo": "Excel"
+    },
+    {
+        "marca": "Hummer",
+        "año": 2006,
+        "modelo": "H2"
+    },
+    {
+        "marca": "Toyota",
+        "año": 2010,
+        "modelo": "Avalon"
+    },
+    {
+        "marca": "Dodge",
+        "año": 2005,
+        "modelo": "Viper"
+    },
+    {
+        "marca": "Chevrolet",
+        "año": 1999,
+        "modelo": "Camaro"
+    },
+    {
+        "marca": "BMW",
+        "año": 2011,
+        "modelo": "1 Series"
+    },
+    {
+        "marca": "BMW",
+        "año": 1992,
+        "modelo": "8 Series"
+    },
+    {
+        "marca": "GMC",
+        "año": 2002,
+        "modelo": "Sierra 1500"
+    },
+    {
+        "marca": "BMW",
+        "año": 2008,
+        "modelo": "X6"
+    },
+    {
+        "marca": "Toyota",
+        "año": 1992,
+        "modelo": "Previa"
+    },
+    {
+        "marca": "Dodge",
+        "año": 1995,
+        "modelo": "Ram Van 2500"
+    }
+]

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <link rel="stylesheet" href="css/style.css">
+    <script defer src="jquery/jquery-3.5.1.min.js"></script>
+    <script defer src="js/storage.js"></script>
+    <script defer src="js/tpintegrador.js"></script>
+</head>
+<!------ Include the above in your HEAD tag ---------->
+<div class="space-medium">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-5 col-lg-12 col-md-12 col-sm-12 col-12">
+                <div class="feature-description">
+                    <h2>Cotizá, compará y ahorra en tu Seguro de Auto.
+                        <br>
+                    Contratá online el seguro de auto y ahorrá hasta 30% por año</h2>
+                    <hr>
+                    <!-- feature-left -->
+                    <div class="feature-left">
+                        <div class="feature-icon"><img src="img/pagar.png" alt="tarjeta" width="50" height="50"></div>
+                        <div class="feature-content">
+                            <p><b>Pago Seguro.</b> <br>
+                            Aceptamos todos los medios de pago</p>
+                        </div>
+                    </div>
+                    <!-- /.feature-left -->
+                    <!-- feature-left -->
+                    <div class="feature-left">
+                        <div class="feature-icon"><img src="img/coches.png" alt="poliza" width="55" height="55"></div>
+                        <div class="feature-content">
+                            <p><b> Poliza de Seguro Digital.</b> <br>
+                            Nuestra emision es 100% Online</p>
+                        </div>
+                    </div>
+                    <!-- /.feature-left -->
+                    <!-- feature-left -->
+                    <div class="feature-left">
+                        <div class="feature-icon"><img src="img/trofeo.png" alt="trofeo" width="50" height="50"></div>
+                        <div class="feature-content">
+                            <p> <b>+20.000 Seguros de Autos. </b> <br> 
+                            Somos la companía con mayor emisión</p>
+                        </div>
+                    </div>
+                    <!-- /.feature-left -->
+                    <hr>
+                    <p>Pago 100% seguro con todas las tarjetas de crédito. <br>
+                    Utilizamos conexiones seguras para proteger tu información.</p>
+                </div>
+            </div>
+            <!-- /.feature-sections -->
+            <div class="offset-xl-1 col-xl-6 offset-lg-1 col-lg-10 offset-md-1 col-md-10 col-sm-12 col-12 mt30">
+                <form id="cotizar">
+                    <!-- service-form -->
+                    <div class="service-form">
+                        <div class="row">
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 mb10 ">
+                                <h3>¿Qué auto querés asegurar? <br>
+                                Compará coberturas online.</h3>
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                                <div class="form-group">
+                                    <label class="control-label sr-only" for="select"></label>
+                                    <div class="select">
+                                        <select id="marca" name="select" class="form-control">
+                                            <option value="">- Marca -</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                                <div class="form-group" id="label-modelo">
+                                    <label class="control-label sr-only" for="select"></label>
+                                    <div class="select">
+                                        <select id="modelo" name="select" class="form-control">
+                                            <option value="">- Modelo -</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                                <div class="form-group">
+                                    <label class="control-label sr-only" for="select"></label>
+                                    <div class="select">
+                                        <!-- <select id="select" name="select" class="form-control" id="year"> -->
+                                        <select name="select" class="form-control" id="year">
+                                            <option value="">- Año -</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                                <div class="form-group">
+                                    <label class="control-label sr-only" for="select"></label>
+                                    <div class="select">
+                                        <select id="gnc" name="select" class="form-control">
+                                            <option value="">- ¿Tiene GNC? -</option>
+                                            <option value="si">SI</option>
+                                            <option value="no">NO</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 ">
+                                <button type="submit" name="singlebutton" class="btn btn-default btn-block mb10" id="botonCotizar">COTIZAR MI SEGURO
+                                    </button>
+                                <!-- <p><small>We promise we will never SPAM you with unwanted emails.</small></p> -->
+                            </div>
+                            <div id="resultado"></div>
+                        </div>
+                    </div>
+                </form>
+                <div id="spinner" class="d-flex justify-content-center invisible">
+                    <div class="spinner-border" role="status">
+                        <span class="sr-only">Loading...</span>
+                    </div>
+                </div>
+                <p id="envio"></p>
+                <br>
+                <div id="datosAjax"></div>
+                <button id="botonCargar" name="singlebutton" class="btn btn-default btn-block mb10">
+                    ÚLTIMA COTIZACIÓN REALIZADA
+                </button>
+                <br>
+                <div id="datosGuardados"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
